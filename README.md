@@ -1,4 +1,4 @@
-#Startup Grind Connect - Slack Channel Code of Conduct
+# Startup Grind Connect - Slack Channel Code of Conduct
 
 ## TL;DR
 
